@@ -1,2 +1,0 @@
-# knowledge-startup
-Selenium automation
